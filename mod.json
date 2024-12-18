@@ -1,0 +1,14 @@
+{
+	"name" : "Hero movement arrows",
+	"description" : "Collection of hero movement arrow styles based on Horn of the Abyss style",
+	"modType" : "Graphical",
+	"author": "George King",
+	"contact": "",
+	"version" : "1.0",
+	
+	"czech" : {
+		"name" : "Ukazatele pohybu hrdiny",
+		"description" : "Balíček vzledu ukazatele pohybu hrdiny založený na vzhledu z Horn of the Abyss"
+	}
+	
+}
